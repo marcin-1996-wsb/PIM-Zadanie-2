@@ -1,1 +1,3 @@
-# PIM-Zadanie-2
+6. Różnica między prędkością, a tempem w Audiacity polega na tym, że zmiana tempa zmieni także wysokość odtwarzanego utworu. Przyśpieszając będzie brzmiał wyżej, a zwalniająć niżej. Zmiana prędkości utworzu przepróbkowuje utwór i zmienia jego BPM, jednak nie wpływa na jego wysokość.
+9. Czym jest normalizacja głośności? -  Powoduje ona zwiększenie głośności całego nagrania do ustalonego przez nas poziomu powodując, że np. nasze nagranie nie będzie brzmiało ciszej niż inne nagrania na youtubie.
+10. Co to jest normalizacja? Normalizacja sprawia, że wszystkie ścieżki dźwięki zostają wzmocnione do tego stopnia, by nagranie było jak najlepszej jakości dźwiękowej.
